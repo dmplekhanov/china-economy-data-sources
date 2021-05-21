@@ -12,10 +12,11 @@ in the Chinese language if not specified otherwise
 - [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 
-## Industry associations
+## Industry associations and data
 
 - [China Association of Automotive Manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
 - [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/)
+- [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 
 ## Labor market
