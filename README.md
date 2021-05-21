@@ -12,7 +12,7 @@ in the Chinese language if not specified otherwise
 ## Industry asscoications
 
 - [China Association of Automotive manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
-
+- [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/)
 
 
 ## Labor market
