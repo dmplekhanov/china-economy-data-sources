@@ -13,7 +13,7 @@ in the Chinese language if not specified otherwise
 
 ## Industry associations
 
-- [China Association of Automotive manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
+- [China Association of Automotive Manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
 - [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/)
 
 
