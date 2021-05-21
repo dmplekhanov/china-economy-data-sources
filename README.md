@@ -12,7 +12,7 @@ in the Chinese language if not specified otherwise
 - [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Commerce of the PRC](http://www.mofcom.gov.cn/article/tongjiziliao/)
-- [Ministry of Agriculture and ForRural Affairs of the PRC](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
+- [Ministry of Agriculture and Rural Affairs of the PRC](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
 
 ## Industry associations and data
 
