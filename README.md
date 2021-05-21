@@ -9,7 +9,7 @@ in the Chinese language if not specified otherwise
 - [The People's Bank of China (PBOC)](http://www.pbc.gov.cn/diaochatongjisi/116219/index.html)
 - [State Administration of Foreign Exchange (SAFE)](http://www.safe.gov.cn/safe/tjsj1/index.html)
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
-- 
+- [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 
 ## Industry asscoications
 
