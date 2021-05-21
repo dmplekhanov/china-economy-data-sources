@@ -8,3 +8,16 @@ in the Chinese language if not specified otherwise
 - [The People's Bank of China (PBOC)](http://www.pbc.gov.cn/diaochatongjisi/116219/index.html)
 - [State Administration of Foreign Exchange (SAFE)](http://www.safe.gov.cn/safe/tjsj1/index.html)
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
+
+## Industry asscoications
+
+- [China Association of Automotive manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
+
+
+
+## Labor market
+
+- [China Institute for Employment Research (CIER) index](http://www.cier.org.cn/index.asp)
+
+
+
