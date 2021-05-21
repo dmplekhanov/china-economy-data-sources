@@ -11,7 +11,7 @@ in the Chinese language if not specified otherwise
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
 - [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 
-## Industry asscoications
+## Industry associations
 
 - [China Association of Automotive manufacturers (CAAM)](http://www.caam.org.cn/tjsj)
 - [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/)
