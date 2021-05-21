@@ -33,6 +33,6 @@ in the Chinese language if not specified otherwise
 
 ## International data
 
-- [China Global Investment Tracker](https://www.aei.org/china-global-investment-tracker/)
+- [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/)
 - 
 
