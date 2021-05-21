@@ -11,6 +11,7 @@ in the Chinese language if not specified otherwise
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
 - [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
+- [Ministry of Commerce of the PRC](http://www.mofcom.gov.cn/article/tongjiziliao/)
 
 ## Industry associations and data
 
