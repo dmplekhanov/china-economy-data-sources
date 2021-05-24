@@ -40,4 +40,5 @@ _in the Chinese language if not specified otherwise_
 - [China Policy Change Index](https://policychangeindex.org/)
 - [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html)
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
+- [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
 
