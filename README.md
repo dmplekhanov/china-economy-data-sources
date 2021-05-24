@@ -37,7 +37,7 @@ _in the Chinese language if not specified otherwise_
 
 ## International data [ENG]
 
-- [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/)
+- [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/) - public data set covering China’s global investment and construction
 - [US-China Investment Hub @ Rhodium](https://www.us-china-investment.org/) - a multiyear research initiative that aims at providing greater transparency on capital flows between China and the United States
 - [Chinese Investment in Australia @ East Asian Bureau of Economic Research](https://chiia.eaber.org/) - a public database of Mainland Chinese direct commercial investment in Australia
 - [SWIFT RMB Tracker](https://www.swift.com/our-solutions/compliance-and-shared-services/business-intelligence/renminbi/rmb-tracker) -  free monthly report from SWIFT Business Intelligence on RMB usage across geographies and financial sectors
