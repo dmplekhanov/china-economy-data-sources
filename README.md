@@ -38,4 +38,5 @@ _in the Chinese language if not specified otherwise_
 - [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/)
 - [SWIFT RMB Tracker](https://www.swift.com/our-solutions/compliance-and-shared-services/business-intelligence/renminbi/rmb-tracker)
 - [China Policy Change Index](https://policychangeindex.org/)
+- [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html)
 
