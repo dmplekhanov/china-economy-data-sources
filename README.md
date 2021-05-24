@@ -42,7 +42,7 @@ _in the Chinese language if not specified otherwise_
 - [Chinese Investment in Australia @ East Asian Bureau of Economic Research](https://chiia.eaber.org/) - a public database of Mainland Chinese direct commercial investment in Australia
 - [SWIFT RMB Tracker](https://www.swift.com/our-solutions/compliance-and-shared-services/business-intelligence/renminbi/rmb-tracker)
 - [China Policy Change Index](https://policychangeindex.org/) - a series of open-source machine learning projects that predict authoritarian regimes’ major policy moves by “reading” their propaganda publications
-- [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html)
+- [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html) -  newspaper-based indices of policy uncertainty in China
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
 - [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
 - [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
