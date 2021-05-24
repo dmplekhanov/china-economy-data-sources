@@ -17,6 +17,8 @@ _in the Chinese language if not specified otherwise_
 - [Ministry of Agriculture and Rural Affairs of the PRC](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
+- 
+
 
 ## Industry associations and data
 
@@ -41,4 +43,4 @@ _in the Chinese language if not specified otherwise_
 - [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html)
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
 - [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
-
+- [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
