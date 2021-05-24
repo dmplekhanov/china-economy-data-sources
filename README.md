@@ -36,5 +36,5 @@ _in the Chinese language if not specified otherwise_
 ## International data [ENG]
 
 - [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/)
-- 
+- [SWIFT RMB Tracker](https://www.swift.com/our-solutions/compliance-and-shared-services/business-intelligence/renminbi/rmb-tracker)
 
