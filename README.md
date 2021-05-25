@@ -13,8 +13,7 @@ _in the Chinese language if not specified otherwise_
 - [State Administration of Foreign Exchange (SAFE)](http://www.safe.gov.cn/safe/tjsj1/index.html)
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
 - [General Administration of Customs P.R. China](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
-- [Ministry of Commerce of the PRC](http://www.mofcom.gov.cn/article/tongjiziliao/)
---
+- [Ministry of Commerce of the PRC (MofCom)](http://www.mofcom.gov.cn/article/tongjiziliao/)
 - [Ministry of Agriculture and Rural Affairs of the PRC](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
@@ -47,3 +46,7 @@ _in the Chinese language if not specified otherwise_
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
 - [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
 - [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
+
+## Russia - China economic relations
+
+- [MofCom Russia-China Trade & Economy Cooperation web site](http://www.crc.mofcom.gov.cn/index.shtml)
