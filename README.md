@@ -18,7 +18,6 @@ _in the Chinese language if not specified otherwise_
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
 
-- [Chine Economic Information Network](https://www.cei.cn/)
 
 
 ## Industry associations and market data providers
@@ -27,7 +26,7 @@ _in the Chinese language if not specified otherwise_
 - [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/) - data from dealership association???
 - [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/) - mobile phones sales data (monthly)
 - [China Central Depository ＆ Clearing Co., Ltd.（CCDC）information system](https://www.chinabond.com.cn/d2s/index.html) - information about China's bond market
-
+- [Chine Economic Information Network](https://www.cei.cn/) - registration required
 
 ## Labor market
 
@@ -36,6 +35,10 @@ _in the Chinese language if not specified otherwise_
 ## Company data
 
 - [China Railway](http://www.china-railway.com.cn/wnfw/sjfw/)
+
+## Micro-data
+
+- [Chinese National Survey Data Archive (CNSDA)](http://cnsda.ruc.edu.cn/)
 
 ## International data [ENG]
 
