@@ -17,7 +17,8 @@ _in the Chinese language if not specified otherwise_
 - [Ministry of Agriculture and Rural Affairs of the PRC](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
-- 
+
+- [Chine Economic Information Network](https://www.cei.cn/)
 
 
 ## Industry associations and market data providers
