@@ -56,4 +56,4 @@ _in the Chinese language if not specified otherwise_
 
 ## Russia - China economic relations
 
-- [MofCom Russia-China Trade & Economy Cooperation web site](http://www.crc.mofcom.gov.cn/index.shtml)
+- [Russia-China Trade & Economy Cooperation web site @ MofCom](http://www.crc.mofcom.gov.cn/index.shtml)
