@@ -39,6 +39,8 @@ _in the Chinese language if not specified otherwise_
 ## Micro-data
 
 - [Chinese National Survey Data Archive (CNSDA)](http://cnsda.ruc.edu.cn/)
+- [Chinese Household Income Project (CHIP)](http://ciidbnu.org/chip/) -  five waves of household surveys, in 1989, 1996, 2003, 2008 and 2013. 
+
 
 ## International data [ENG]
 
