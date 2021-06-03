@@ -24,7 +24,7 @@ _in the Chinese language if not specified otherwise_
 
 - [China Association of Automotive Manufacturers (CAAM)](http://www.caam.org.cn/tjsj) - output and sales (wholesales???) figures
 - [China Passenger Car Association (CPCA)](http://www.cpcaauto.com/) - data from dealership association???
-- [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/) - mobile phones sales data (monthly)
 - [China Central Depository ＆ Clearing Co., Ltd.（CCDC）information system](https://www.chinabond.com.cn/d2s/index.html) - information about China's bond market
 
 
