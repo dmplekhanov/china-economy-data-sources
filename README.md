@@ -53,6 +53,7 @@ _in the Chinese language if not specified otherwise_
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
 - [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
 - [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
+- [COVID-19 data for China @ World Health Organization](https://covid19.who.int/region/wpro/country/cn)
 
 ## Russia - China economic relations
 
