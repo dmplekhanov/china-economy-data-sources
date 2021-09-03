@@ -8,7 +8,7 @@ _in the Chinese language if not specified otherwise_
 - [National Bureau of Statistics (NBS)](http://www.stats.gov.cn/)
 
 ## Ministry and other government entities
-_statistical sections on the official websites
+_statistical sections on the official websites_
 
 - [Ministry of Finance (MoF)](http://www.mof.gov.cn/gkml/caizhengshuju/)
 - [The People's Bank of China (PBOC)](http://www.pbc.gov.cn/diaochatongjisi/116219/index.html)
