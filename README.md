@@ -21,7 +21,6 @@ _statistical sections of official websites_
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
 
 
-
 ## Industry associations and market data providers
 
 - [China Association of Automotive Manufacturers (CAAM)](http://www.caam.org.cn/tjsj) - output and sales (wholesales???) figures
@@ -29,6 +28,12 @@ _statistical sections of official websites_
 - [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/) - mobile phones sales data (monthly)
 - [China Central Depository ＆ Clearing Co., Ltd.（CCDC）information system](https://www.chinabond.com.cn/d2s/index.html) - information about China's bond market
 - [Chine Economic Information Network](https://www.cei.cn/) - registration required
+
+
+## Research institutions
+
+- [National Institution for Finance & Development (NIFD)](http://www.nifd.cn/home/index)
+- [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index)
 
 ## Labor market
 
