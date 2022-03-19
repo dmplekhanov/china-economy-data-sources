@@ -33,7 +33,7 @@ _statistical sections of official websites_
 ## Research institutions
 
 - [National Institution for Finance & Development (NIFD)](http://www.nifd.cn/home/index)
-- [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index)
+- [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index) - quarterly data
 
 ## Labor market
 
