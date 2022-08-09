@@ -20,6 +20,7 @@ _statistical sections of official websites_
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
 - [Ministry of Civil Affairs of the PRC](http://www.mca.gov.cn/article/sj/)
+- [Civil Aviation Administration of China](http://www.caac.gov.cn/XXGK/XXGK/) - in 统计数据 section
 
 ## Industry associations and market data providers
 
@@ -28,6 +29,7 @@ _statistical sections of official websites_
 - [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/kxyj/qwfb/qwsj/) - mobile phones sales data (monthly)
 - [China Central Depository ＆ Clearing Co., Ltd.（CCDC）information system](https://www.chinabond.com.cn/d2s/index.html) - information about China's bond market
 - [Chine Economic Information Network](https://www.cei.cn/) - registration required
+- [China Containerized Freight Index (CCFI)](https://en.sse.net.cn/indices/ccfinew.jsp)
 
 
 ## Research institutions
