@@ -20,6 +20,7 @@ _statistical sections of official websites_
 - [State Post Bureau of the PRC](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism of the PRC](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
 - [Ministry of Civil Affairs of the PRC](http://www.mca.gov.cn/article/sj/)
+- [Ministry of Education of the PRC](http://www.moe.gov.cn/jyb_sjzl/moe_560/2020/)
 - [Civil Aviation Administration of China](http://www.caac.gov.cn/XXGK/XXGK/) - in 统计数据 section
 
 ## Industry associations and market data providers
