@@ -31,6 +31,7 @@ _statistical sections of official websites_
 - [China Central Depository ＆ Clearing Co., Ltd.（CCDC）information system](https://www.chinabond.com.cn/d2s/index.html) - information about China's bond market
 - [Chine Economic Information Network](https://www.cei.cn/) - registration required
 - [China Containerized Freight Index (CCFI)](https://en.sse.net.cn/indices/ccfinew.jsp)
+- [Payment and Clearing Association of China](http://www.pcac.org.cn/eportal/ui?pageId=595055)
 
 
 ## Research institutions
