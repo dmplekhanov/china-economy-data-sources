@@ -32,6 +32,7 @@ _statistical sections of official websites_
 - [Chine Economic Information Network](https://www.cei.cn/) - registration required
 - [China Containerized Freight Index (CCFI)](https://en.sse.net.cn/indices/ccfinew.jsp)
 - [Payment and Clearing Association of China](http://www.pcac.org.cn/eportal/ui?pageId=595055)
+- [China electronic local government bond market access (CELMA)](http://www.celma.org.cn/ydsj/index.jhtml) - national platform for local government debt information disclosure by MoF
 
 
 ## Research institutions
