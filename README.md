@@ -45,6 +45,7 @@ _statistical sections of official websites_
 ## Company data
 
 - [China Railway](http://www.china-railway.com.cn/wnfw/sjfw/)
+- [Bank of China](https://www.boc.cn/fimarkets/cri/) - Cross-border RMB Index
 
 ## Micro-data
 
