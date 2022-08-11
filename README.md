@@ -33,6 +33,7 @@ _statistical sections of official websites_
 - [China Containerized Freight Index (CCFI)](https://en.sse.net.cn/indices/ccfinew.jsp)
 - [Payment and Clearing Association of China](http://www.pcac.org.cn/eportal/ui?pageId=595055)
 - [China electronic local government bond market access (CELMA)](http://www.celma.org.cn/ydsj/index.jhtml) - national platform for local government debt information disclosure by MoF
+- [China Association of Small and Medium Enterprises (CASME)](https://ca-sme.org/category/Category/list/cid/364) - monthly SMEs' Development Index
 
 
 ## Research institutions
