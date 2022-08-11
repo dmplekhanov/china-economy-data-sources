@@ -66,6 +66,7 @@ _statistical sections of official websites_
 - [China Policy Uncertainty Indices](http://www.policyuncertainty.com/china_monthly.html) -  newspaper-based indices of policy uncertainty in China
 - [China Labor Bulletin (CLB) maps](https://maps.clb.org.hk/)
 - [China Vitae](https://www.chinavitae.com/index.php) - biographical information on more than 5000 Chinese leaders in government, politics, the military, education, business, and the media
+- [CCP Elite database @ 21st Century China Center, UC San Diego](https://chinadatalab.ucsd.edu/resources/ccp-elites-database/) - detailed biographical information of Central Committee and provincial standing committee members since 1976 ([Interactive Dashboard](https://chinadatalab.ucsd.edu/elites/))
 - [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
 - [COVID-19 data for China @ World Health Organization](https://covid19.who.int/region/wpro/country/cn)
 
