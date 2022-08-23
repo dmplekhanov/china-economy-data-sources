@@ -22,6 +22,7 @@ _statistical sections of official websites_
 - [Ministry of Civil Affairs of the PRC](http://www.mca.gov.cn/article/sj/)
 - [Ministry of Education of the PRC](http://www.moe.gov.cn/jyb_sjzl/moe_560/2020/)
 - [Civil Aviation Administration of China](http://www.caac.gov.cn/XXGK/XXGK/) - in 统计数据 section
+- [Public procurement website](http://www.ccgp.gov.cn/) - public procurement notifications in the PRC
 
 ## Industry associations and market data providers
 
