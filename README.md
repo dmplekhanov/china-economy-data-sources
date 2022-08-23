@@ -41,6 +41,7 @@ _statistical sections of official websites_
 - [National Institution for Finance & Development (NIFD)](http://www.nifd.cn/home/index)
   - [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index) - quarterly data
 - [China Institute for Employment Research (CIER) index](http://www.cier.org.cn/index.asp) - labor market, quarterly
+- [The Green Finance & Development Center at FISF Fudan University](https://greenfdc.org/category/belt-and-road-initiative-bri/) - Belt and Road Initiative (BRI) Investment Report, biannual [ENG]
 
 
 ## Company data
