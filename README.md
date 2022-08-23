@@ -36,10 +36,10 @@ _statistical sections of official websites_
 - [China Association of Small and Medium Enterprises (CASME)](https://ca-sme.org/category/Category/list/cid/364) - monthly SMEs' Development Index
 
 
-## Research institutions
+## Research institutions & think tanks
 
 - [National Institution for Finance & Development (NIFD)](http://www.nifd.cn/home/index)
-- [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index) - quarterly data
+  - [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index) - quarterly data
 
 ## Labor market
 
