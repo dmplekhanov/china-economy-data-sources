@@ -56,7 +56,7 @@ _statistical sections of official websites_
 
 ## Consumer & Business confidence index
 
-- [CKGSB Business Conditions Index](https://english.ckgsb.edu.cn/worldwide/insights/business-conditions-index/) - business sentiment of executives about the macro-economic environment in China by Cheung Kong Graduate School of Business (CKGSB)
+- [CKGSB Business Conditions Index](https://english.ckgsb.edu.cn/worldwide/insights/business-conditions-index/) - business sentiment of executives about the macro-economic environment in China by Cheung Kong Graduate School of Business (CKGSB) [ENG]
 
 ## International data [ENG]
 
