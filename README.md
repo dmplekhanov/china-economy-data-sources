@@ -44,7 +44,6 @@ _statistical sections of official websites_
 - [China Institute for Employment Research (CIER) index](http://www.cier.org.cn/index.asp) - labor market, quarterly
 - [The Green Finance & Development Center at FISF Fudan University](https://greenfdc.org/category/belt-and-road-initiative-bri/) - Belt and Road Initiative (BRI) Investment Report, biannual (February/July) [ENG]
 
-
 ## Company data
 
 - [China Railway](http://www.china-railway.com.cn/wnfw/sjfw/)
@@ -55,6 +54,9 @@ _statistical sections of official websites_
 - [Chinese National Survey Data Archive (CNSDA)](http://cnsda.ruc.edu.cn/)
 - [Chinese Household Income Project (CHIP)](http://ciidbnu.org/chip/) -  five waves of household surveys, in 1989, 1996, 2003, 2008 and 2013. 
 
+## Consumer & Business confidence index
+
+- [CKGSB Business Conditions Index](https://english.ckgsb.edu.cn/worldwide/insights/business-conditions-index/) - business sentiment of executives about the macro-economic environment in China by Cheung Kong Graduate School of Business (CKGSB)
 
 ## International data [ENG]
 
