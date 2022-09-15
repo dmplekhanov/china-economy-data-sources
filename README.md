@@ -43,6 +43,7 @@ _statistical sections of official websites_
   - [NIFD China's macro leverage ratio database](http://www.nifd.cn/home/index) - quarterly data
 - [China Institute for Employment Research (CIER) index](http://www.cier.org.cn/index.asp) - labor market, quarterly
 - [The Green Finance & Development Center at FISF Fudan University](https://greenfdc.org/category/belt-and-road-initiative-bri/) - Belt and Road Initiative (BRI) Investment Report, biannual (February/July) [ENG]
+- [China Academy of Transportation Sciences](http://www.motcats.ac.cn/col/col55/index.html) - transport sector activity index (中国运输生产指数, CTSI), monthly
 
 ## Company data
 
