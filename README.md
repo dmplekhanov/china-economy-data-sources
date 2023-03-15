@@ -80,3 +80,7 @@ _statistical sections of official websites_
 ## Russia - China economic relations
 
 - [Russia-China Trade & Economy Cooperation web site @ MofCom](http://www.crc.mofcom.gov.cn/index.shtml)
+
+## Digital archives
+
+- [People's Daily archive](https://www.laoziliao.net/rmrb/) - published issues from from 1946 to 2003
