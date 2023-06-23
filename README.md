@@ -16,7 +16,7 @@ _statistical sections of official websites_
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
 - [General Administration of Customs](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
 - [Ministry of Commerce (MofCom)](http://www.mofcom.gov.cn/article/tongjiziliao/)
-- [Ministry of Agriculture and Rural Affairs(http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
+- [Ministry of Agriculture and Rural Affairs](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)
 - [State Post Bureau](http://www.spb.gov.cn/sj/)
 - [Ministry of Culture and Tourism](http://zwgk.mct.gov.cn/zfxxgkml/447/465/index_3081.html)
 - [Ministry of Civil Affairs](http://www.mca.gov.cn/article/sj/)
