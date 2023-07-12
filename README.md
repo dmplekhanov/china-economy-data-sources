@@ -86,4 +86,4 @@ _statistical sections of official websites_
 
 ## Digital archives
 
-- [People's Daily archive](https://www.laoziliao.net/rmrb/) - published issues from from 1946 to 2003
+- [People's Daily archive](https://www.laoziliao.net/rmrb/) - published issues from 1946 to 2003
