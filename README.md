@@ -29,6 +29,7 @@ _statistical sections of official websites_
 - [Civil Aviation Administration of China](http://www.caac.gov.cn/XXGK/XXGK/) - in 统计数据 section
 - [National Immigration Administration](https://www.nia.gov.cn/n741440/n741567/index.html)
 - [Public procurement website](http://www.ccgp.gov.cn/) - public procurement notifications in the PRC
+- [Communist Party of China (CPC) annual statistics reports](https://news.12371.cn/dzybmbdj/zzb/dntjgb/)
 
 ## Industry associations and market data providers
 
