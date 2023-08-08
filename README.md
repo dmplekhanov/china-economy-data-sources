@@ -26,6 +26,7 @@ _statistical sections of official websites_
   - [City air quality monthly report](https://www.mee.gov.cn/hjzl/dqhj/cskqzlzkyb/)
   - [National surface water quality situation](https://www.mee.gov.cn/hjzl/shj/qgdbszlzk/)
 - [Ministry of Natural Resources](https://www.mnr.gov.cn/sj/) - annual statistical reports
+- [Ministry of Emergency Management](https://www.mem.gov.cn/gk/tjsj/)
 - [Civil Aviation Administration of China](http://www.caac.gov.cn/XXGK/XXGK/) - in 统计数据 section
 - [National Immigration Administration](https://www.nia.gov.cn/n741440/n741567/index.html)
 - [Public procurement website](http://www.ccgp.gov.cn/) - public procurement notifications in the PRC
