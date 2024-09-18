@@ -87,4 +87,9 @@ _statistical sections of official websites_
 
 ## Digital archives
 
+- [Chinese laws & regulations database @ Peking University](https://www.pkulaw.com/)
 - [People's Daily archive](https://www.laoziliao.net/rmrb/) - published issues from 1946 to 2003
+
+
+
+
