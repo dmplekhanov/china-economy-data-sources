@@ -69,6 +69,7 @@ _statistical sections of official websites_
 
 ## International data [ENG]
 
+- [China Science, Technology, and Innovation Policy Portal](https://portals.igcc.sdsc.edu/) - datasets designed to offer comprehensive insights into China’s science, technology, innovation, and industrial policy (STIIP) ecosystem, by UC Institute on Global Conflict and Cooperation (IGCC) and the China Data Lab (CDL) at the 21st Century China Center (21CCC)
 - [China Global Investment Tracker @ American Enterprise Institute](https://www.aei.org/china-global-investment-tracker/) - public data set covering China’s global investment and construction
 - [US-China Investment Hub @ Rhodium](https://www.us-china-investment.org/) - a multiyear research initiative that aims at providing greater transparency on capital flows between China and the United States
 - [Chinese Investment in Australia @ East Asian Bureau of Economic Research](https://chiia.eaber.org/) - a public database of Mainland Chinese direct commercial investment in Australia
@@ -80,6 +81,7 @@ _statistical sections of official websites_
 - [CCP Elite database @ 21st Century China Center, UC San Diego](https://chinadatalab.ucsd.edu/resources/ccp-elites-database/) - detailed biographical information of Central Committee and provincial standing committee members since 1976 ([Interactive Dashboard](https://chinadatalab.ucsd.edu/elites/))
 - [Mapping China's Tech Giants @ ASPI](https://chinatechmap.aspi.org.au/#/map/)
 - [COVID-19 data for China @ World Health Organization](https://covid19.who.int/region/wpro/country/cn)
+
 
 ## Russia - China economic relations
 
