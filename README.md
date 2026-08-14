@@ -12,6 +12,7 @@ _statistical sections of official websites_
 
 - [Ministry of Finance (MoF)](http://www.mof.gov.cn/gkml/caizhengshuju/)
 - [The People's Bank of China (PBOC)](http://www.pbc.gov.cn/diaochatongjisi/116219/index.html)
+- [National Financial Regulatory Administration (NAFR)](https://www.nfra.gov.cn/cn/view/pages/ItemList.html?itemPId=953&itemId=954&itemUrl=ItemListRightList.html&itemName=%E7%BB%9F%E8%AE%A1%E4%BF%A1%E6%81%AF)
 - [State Administration of Foreign Exchange (SAFE)](http://www.safe.gov.cn/safe/tjsj1/index.html)
 - [Ministry of Transport (MoT)](https://www.mot.gov.cn/tongjishuju/)
 - [General Administration of Customs](http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html)
